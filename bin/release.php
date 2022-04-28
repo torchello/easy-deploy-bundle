@@ -1,7 +1,7 @@
 #!/usr/bin/env php
 <?php
 
-$version = "v1.0.0";
+$version = "v1.1.0";
 $message = "initial release";
 
 /* echo("Running phpstan:\n");
